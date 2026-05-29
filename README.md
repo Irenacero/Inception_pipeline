@@ -14,6 +14,7 @@ The workflow is organized as follows:
    Fit a second unperturbed Hopf model using the **perturbed FC** and **perturbed COV_tau** from Stage 1 as inputs. This stage generates the **Inception EC**, **Inception FC**, and **Inception COV_tau** matrices, representing the post-perturbation state estimated by the Inception framework.
 
 By default, the pipeline saves a table of similarity values to the target state instead of saving every full matrix for every node and perturbation intensity.
+The input data and generated results are not included in this repository due to data privacy, licensing, and file-size constraints; users should place their own data in the `Data/` and `Output/` folders before running the pipeline.
 
 ## Folder structure
 
