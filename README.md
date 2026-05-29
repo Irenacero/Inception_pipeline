@@ -1,6 +1,6 @@
 # Inception MATLAB Pipeline
 
-This repository implements the modelling workflow used to define baseline brain states and run the two-stage Inception framework described in Acero-Pousa et al. (2025), *Inception: Simulating Personalized Long-Term Recovery in Disorders of Consciousness using Whole-Brain Computational Perturbations*.
+This repository implements the modelling workflow used to define baseline brain states and run the two-stage Inception framework described in Acero-Pousa et al. (2025), *Simulating sustained post stimulation effects in disorders of consciousness using personalised whole brain modelling*.
 
 The workflow is organized as follows:
 
